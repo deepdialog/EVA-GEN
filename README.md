@@ -4,6 +4,8 @@
 
 模型下载：[https://wudaoai.cn/model/detail/EVA#download](https://wudaoai.cn/model/detail/EVA#download)
 
+因为模型本身协议限制，这里不提供任何模型或者转换后模型下载，请自行申请下载
+
 ## 本REPO的食用方法：
 
 建议主要参考[to_tensorflow.ipynb](to_tensorflow.ipynb)这个notebook，使用基于`transformers`的方法，读取、测试模型
