@@ -10,3 +10,9 @@ results/
 checkpoints/
 pretain_data/
 *.so
+
+tf_eva
+tf_eva_encoder
+torch_eva
+torch_eva_encoder
+
